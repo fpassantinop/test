@@ -1,2 +1,4 @@
 historia.txt
 hola soy francis passantino
+
+tengo hambre y necesito aprender
