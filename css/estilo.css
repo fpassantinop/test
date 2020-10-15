@@ -1,4 +1,17 @@
 .body{
+<<<<<<< HEAD
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+=======
+    text-align: center
+}
+
+.yellow{
+    color: yellow
+}
+
+.cabecera{
+    padding: 20px;
+    background-color: blue;
+>>>>>>> cabecera
 }
