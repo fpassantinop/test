@@ -5,3 +5,8 @@
 .yellow{
     color: yellow
 }
+
+.cabecera{
+    padding: 20px;
+    background-color: blue;
+}
